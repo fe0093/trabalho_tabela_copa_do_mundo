@@ -1,0 +1,179 @@
+table.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+html, body {
+    width: 100%;
+}
+tr, td {
+    white-space: nowrap;
+}
+.totalbackground {
+    background-image: url(../img/santiago-bernabeu-stadium-4k-football-stadium-real-madrid-stadium-soc.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.background {
+    background-color: whitesmoke;
+    display: inline-block;
+}
+.transbox {
+    margin: 10px;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
+.tabelageral {
+    padding: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-collapse: collapse;
+    margin: 25px;
+    min-width: 400px;
+}
+#grupoa {
+    width: 500px;
+}
+#grupob {
+    width: 660px;
+}
+#grupoc {
+    width: 660px;
+}
+#grupod {
+    width: 660px;
+}
+#grupoe {
+    width: 660px;
+}
+#grupof {
+    width: 660px;
+}
+#grupog {
+    width: 660px;
+}
+#grupoh {
+    width: 660px;
+}
+#marcador {
+    height: 15px;
+    width: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.cidades {
+    padding-left: 35px;
+}
+.grupo {
+    padding-right: 35px;
+    text-align: justify;
+}
+.data {
+    padding-left: 20px;
+}
+.dia {
+    padding-left: 20px;
+}
+.hora {
+    padding-left: 20px;
+}
+#paisrussia {
+    list-style-image: url(../img/russia.png);
+}
+#paisarabiasaudita {
+    list-style-image: url(../img/saudi-arabia.png);
+}
+#paisegito {
+    list-style-image: url(../img/egypt.png);
+}
+#paisuruguai {
+    list-style-image: url(../img/uruguay.png);
+}
+#paisportugal {
+    list-style-image: url(../img/portugal.png);
+}
+#paisespanha {
+    list-style-image: url(../img/spain.png);
+}
+#paismarrocos {
+    list-style-image: url(../img/marrocos.png);
+}
+#paisira {
+    list-style-image: url(../img/iran.png);
+}
+#paisfrança {
+    list-style-image: url(../img/france.png);
+}
+#paisaustralia {
+    list-style-image: url(../img/australia.png);
+}
+#paisperu {
+    list-style-image: url(../img/peru.png);
+}
+#paisdinamarca {
+    list-style-image: url(../img/denmark.png);
+}
+#paisargentina {
+    list-style-image: url(../img/argentina.png);
+}
+#paisislandia {
+    list-style-image: url(../img/iceland.png);
+}
+#paiscroacia {
+    list-style-image: url(../img/croatia.png);
+}
+#paisnigeria {
+    list-style-image: url(../img/nigeria.png);
+}
+#paisbrasil {
+    list-style-image: url(../img/brazil.png);
+}
+#paissuiça {
+    list-style-image: url(../img/switzerland.png);
+}
+#paiscostarica {
+    list-style-image: url(../img/costa-rica.png);
+}
+#paisservia {
+    list-style-image: url(../img/serbia.png);
+}
+#paisalemanha {
+    list-style-image: url(../img/germany.png);
+}
+#paismexico {
+    list-style-image: url(../img/mexico.png);
+}
+#paissuecia {
+    list-style-image: url(../img/sweden.png);
+}
+#paiscoreia {
+    list-style-image: url(../img/south-korea.png);
+}
+#paisbelgica {
+    list-style-image: url(../img/belgica.png);
+}
+#paispanama {
+    list-style-image: url(../img/panama.png);
+}
+#paistunisia {
+    list-style-image: url(../img/tunisia.png);
+}
+#paisinglaterra {
+    list-style-image: url(../img/inglaterra.png);
+}
+#paispolonia {
+    list-style-image: url(../img/poland.png);
+}
+#paissenegal {
+    list-style-image: url(../img/senegal.png);
+}
+#paiscolombia {
+    list-style-image: url(../img/colombia.png);
+}
+#paisjapao {
+    list-style-image: url(../img/japan.png);
+}
